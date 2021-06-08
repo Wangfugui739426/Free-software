@@ -1,0 +1,287 @@
+[2021.06.08 17:19:21] Launched version: 2007004, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2021.06.08 17:19:21] Executable dir: D:/电报/新建文件夹/Telegram Desktop/, name: Telegram.exe
+[2021.06.08 17:19:21] Initial working dir: D:/电报/新建文件夹/Telegram Desktop/
+[2021.06.08 17:19:21] Working dir: D:/电报/新建文件夹/Telegram Desktop/
+[2021.06.08 17:19:21] Command line: D:\电报\新建文件夹\Telegram Desktop\Telegram.exe
+[2021.06.08 17:19:21] Executable path before check: D:/电报/新建文件夹/Telegram Desktop/Telegram.exe
+[2021.06.08 17:19:21] Logs started
+[2021.06.08 17:19:21] Connecting local socket to Global\b8c4d778ac07d0f931ff97252530c281-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.06.08 17:19:21] This is the only instance of Telegram, starting server and app...
+[2021.06.08 17:19:21] Moved logging from 'D:/电报/新建文件夹/Telegram Desktop/log_start0.txt' to 'D:/电报/新建文件夹/Telegram Desktop/log.txt'!
+[2021.06.08 17:19:21] Primary screen DPI: 144
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.06.08 17:19:21] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.06.08 17:19:21] App Info: reading settings...
+[2021.06.08 17:19:21] App Info: reading encrypted settings...
+[2021.06.08 17:19:21] Lang Info: Loaded cached, keys: 3206
+[2021.06.08 17:19:21] OpenAL Logging Level: (not set)
+[2021.06.08 17:19:21] Audio Playback Devices: OpenAL Soft on 扬声器 (Realtek(R) Audio);OpenAL Soft on Realtek Digital Output (Realtek(R) Audio)
+[2021.06.08 17:19:21] Audio Playback Default Device: OpenAL Soft on 扬声器 (Realtek(R) Audio)
+[2021.06.08 17:19:21] Audio Capture Devices: OpenAL Soft on 线路输入 (Realtek(R) Audio)
+[2021.06.08 17:19:21] Audio Capture Default Device: OpenAL Soft on 线路输入 (Realtek(R) Audio)
+[2021.06.08 17:19:21] App Info: reading accounts info...
+[2021.06.08 17:19:21] App Info: reading encrypted info...
+[2021.06.08 17:19:21] App Info: reading map...
+[2021.06.08 17:19:21] App Info: reading encrypted map...
+[2021.06.08 17:19:21] App Info: reading encrypted user settings...
+[2021.06.08 17:19:21] App Info: encrypted user settings read.
+[2021.06.08 17:19:21] App Info: reading encrypted mtp data...
+[2021.06.08 17:19:21] MTP Info: read keys, current: 4, to destroy: 0
+[2021.06.08 17:19:21] Map read time: 14
+[2021.06.08 17:19:21] App Info: reading encrypted mtp config...
+[2021.06.08 17:19:21] Export Info: Destroy top bar by controller removal.
+[2021.06.08 17:19:33] API Warning: not loaded minimal channel applied.
+[2021.06.08 17:19:33] RPC Error: request 66 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2021.06.08 17:21:45] API Warning: emoji 🦤 is not supported, word: bird.
+[2021.06.08 17:21:45] API Warning: emoji 🦤 is not supported, word: bird.
+[2021.06.08 17:21:45] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2021.06.08 17:21:45] API Warning: emoji 🫑 is not supported, word: food.
+[2021.06.08 17:21:45] API Warning: emoji 🫕 is not supported, word: food.
+[2021.06.08 17:21:45] API Warning: emoji 🫑 is not supported, word: food.
+[2021.06.08 17:21:45] API Warning: emoji 🫕 is not supported, word: food.
+[2021.06.08 17:21:45] API Warning: emoji 🪙 is not supported, word: money.
+[2021.06.08 17:21:45] API Warning: emoji 🪙 is not supported, word: money.
+[2021.06.08 17:21:45] API Warning: emoji 🥸 is not supported, word: nose.
+[2021.06.08 17:21:45] API Warning: emoji 🥸 is not supported, word: nose.
+[2021.06.08 17:21:45] API Warning: emoji 🦤 is not supported, word: dodo.
+[2021.06.08 17:21:45] API Warning: emoji 🛻 is not supported, word: pickup.
+[2021.06.08 17:21:45] API Warning: emoji 🫀 is not supported, word: heart.
+[2021.06.08 17:21:45] API Warning: emoji 🫀 is not supported, word: heart.
+[2021.06.08 17:21:45] API Warning: emoji 🪰 is not supported, word: fly.
+[2021.06.08 17:21:45] API Warning: emoji 🪲 is not supported, word: bug.
+[2021.06.08 17:21:45] API Warning: emoji 🪦 is not supported, word: headstone.
+[2021.06.08 17:21:45] API Warning: emoji 🇩🇬 is not supported, word: diego garcia.
+[2021.06.08 17:21:45] API Warning: emoji 🫐 is not supported, word: berry.
+[2021.06.08 17:21:45] API Warning: emoji 🫐 is not supported, word: berry.
+[2021.06.08 17:21:45] API Warning: emoji 🥷 is not supported, word: ninja.
+[2021.06.08 17:21:45] API Warning: emoji 🪨 is not supported, word: rock.
+[2021.06.08 17:21:45] API Warning: emoji 🪨 is not supported, word: rock.
+[2021.06.08 17:21:45] API Warning: emoji 🪅 is not supported, word: piñata.
+[2021.06.08 17:21:45] API Warning: emoji 🛗 is not supported, word: lift.
+[2021.06.08 17:21:45] API Warning: emoji 🛗 is not supported, word: lift.
+[2021.06.08 17:21:45] API Warning: emoji 🛖 is not supported, word: hut.
+[2021.06.08 17:21:45] API Warning: emoji 🪄 is not supported, word: magic.
+[2021.06.08 17:21:45] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: bf.
+[2021.06.08 17:21:45] API Warning: emoji 🪟 is not supported, word: window.
+[2021.06.08 17:21:45] API Warning: emoji 🤵‍♂ is not supported, word: tuxedo.
+[2021.06.08 17:21:45] API Warning: emoji 🤵‍♀ is not supported, word: tuxedo.
+[2021.06.08 17:21:45] API Warning: emoji 🤵‍♂ is not supported, word: tuxedo.
+[2021.06.08 17:21:45] API Warning: emoji 🤵‍♀ is not supported, word: tuxedo.
+[2021.06.08 17:21:45] API Warning: emoji 🧋 is not supported, word: bubbletea.
+[2021.06.08 17:21:45] API Warning: emoji 🫔 is not supported, word: tamale.
+[2021.06.08 17:21:45] API Warning: emoji 🪥 is not supported, word: toothbrush.
+[2021.06.08 17:21:45] API Warning: emoji 🪚 is not supported, word: hand saw.
+[2021.06.08 17:21:45] API Warning: emoji 🪧 is not supported, word: sign on post.
+[2021.06.08 17:21:45] API Warning: emoji 🤵‍♂ is not supported, word: man.
+[2021.06.08 17:21:45] API Warning: emoji 🤵‍♂ is not supported, word: man.
+[2021.06.08 17:21:45] API Warning: emoji 🛼 is not supported, word: roller skate.
+[2021.06.08 17:21:45] API Warning: emoji 🪰 is not supported, word: insect.
+[2021.06.08 17:21:45] API Warning: emoji 🪳 is not supported, word: insect.
+[2021.06.08 17:21:45] API Warning: emoji 🪳 is not supported, word: insect.
+[2021.06.08 17:21:45] API Warning: emoji 🦭 is not supported, word: seal.
+[2021.06.08 17:21:45] API Warning: emoji 🪱 is not supported, word: worm.
+[2021.06.08 17:21:45] API Warning: emoji 🛗 is not supported, word: elevator.
+[2021.06.08 17:21:45] API Warning: emoji 🪄 is not supported, word: wand.
+[2021.06.08 17:21:45] API Warning: emoji 🫐 is not supported, word: blueberries.
+[2021.06.08 17:21:45] API Warning: emoji 🪜 is not supported, word: ladder.
+[2021.06.08 17:21:45] API Warning: emoji 🇹🇦 is not supported, word: ta.
+[2021.06.08 17:21:45] API Warning: emoji 🪆 is not supported, word: matryoshka.
+[2021.06.08 17:21:45] API Warning: emoji 🪣 is not supported, word: bucket.
+[2021.06.08 17:21:45] API Warning: emoji 🪳 is not supported, word: cockroach.
+[2021.06.08 17:21:45] API Warning: emoji 🏳‍⚧ is not supported, word: trans.
+[2021.06.08 17:21:45] API Warning: emoji 🪴 is not supported, word: houseplant.
+[2021.06.08 17:21:45] API Warning: emoji 🫂 is not supported, word: hug.
+[2021.06.08 17:21:45] API Warning: emoji 🫂 is not supported, word: hug.
+[2021.06.08 17:21:45] API Warning: emoji 🫔 is not supported, word: tamal.
+[2021.06.08 17:21:45] API Warning: emoji 🐻‍❄ is not supported, word: animal.
+[2021.06.08 17:21:45] API Warning: emoji 🦭 is not supported, word: animal.
+[2021.06.08 17:21:45] API Warning: emoji 🦣 is not supported, word: animal.
+[2021.06.08 17:21:45] API Warning: emoji 🐈‍⬛ is not supported, word: animal.
+[2021.06.08 17:21:45] API Warning: emoji 🦬 is not supported, word: animal.
+[2021.06.08 17:21:45] API Warning: emoji 🦫 is not supported, word: animal.
+[2021.06.08 17:21:45] API Warning: emoji 🪢 is not supported, word: knot.
+[2021.06.08 17:21:45] API Warning: emoji 🪧 is not supported, word: protest sign.
+[2021.06.08 17:21:45] API Warning: emoji ⚧ is not supported, word: transgenderness.
+[2021.06.08 17:21:45] API Warning: emoji 🏳‍⚧ is not supported, word: transgenderness.
+[2021.06.08 17:21:45] API Warning: emoji 🫖 is not supported, word: teapot.
+[2021.06.08 17:21:45] API Warning: emoji 🤵‍♀ is not supported, word: woman.
+[2021.06.08 17:21:45] API Warning: emoji 🤵‍♀ is not supported, word: woman.
+[2021.06.08 17:21:45] API Warning: emoji 🪖 is not supported, word: military helmet.
+[2021.06.08 17:21:45] API Warning: emoji 🫓 is not supported, word: flatbread.
+[2021.06.08 17:21:45] API Warning: emoji 🫓 is not supported, word: flatbread.
+[2021.06.08 17:21:45] API Warning: emoji 🪙 is not supported, word: coin.
+[2021.06.08 17:21:45] API Warning: emoji 🧑‍🎄 is not supported, word: santa.
+[2021.06.08 17:21:45] API Warning: emoji 🪚 is not supported, word: carpentry saw.
+[2021.06.08 17:21:45] API Warning: emoji 👰‍♂ is not supported, word: man with veil.
+[2021.06.08 17:21:45] API Warning: emoji 🛼 is not supported, word: inline skate.
+[2021.06.08 17:21:45] API Warning: emoji 🪠 is not supported, word: plunger.
+[2021.06.08 17:21:45] API Warning: emoji 🏳‍⚧ is not supported, word: transgender flag.
+[2021.06.08 17:21:45] API Warning: emoji 🪴 is not supported, word: potted plant.
+[2021.06.08 17:21:45] API Warning: emoji 👨‍🍼 is not supported, word: man feeding baby.
+[2021.06.08 17:21:45] API Warning: emoji 🪶 is not supported, word: feather.
+[2021.06.08 17:21:45] API Warning: emoji 🦫 is not supported, word: beaver.
+[2021.06.08 17:21:45] API Warning: emoji 🛼 is not supported, word: roller derby.
+[2021.06.08 17:21:45] API Warning: emoji 🛻 is not supported, word: truck.
+[2021.06.08 17:21:45] API Warning: emoji 🛻 is not supported, word: truck.
+[2021.06.08 17:21:45] API Warning: emoji 🩴 is not supported, word: jandals.
+[2021.06.08 17:21:45] API Warning: emoji 🪄 is not supported, word: magic.
+[2021.06.08 17:21:45] API Warning: emoji 🪆 is not supported, word: nesting dolls.
+[2021.06.08 17:21:45] API Warning: emoji 🫂 is not supported, word: people hugging.
+[2021.06.08 17:21:45] API Warning: emoji 🧋 is not supported, word: milktea.
+[2021.06.08 17:21:45] API Warning: emoji 🇦🇨 is not supported, word: ascension island.
+[2021.06.08 17:21:45] API Warning: emoji 🇦🇨 is not supported, word: ac.
+[2021.06.08 17:21:45] API Warning: emoji 🩴 is not supported, word: flip flops.
+[2021.06.08 17:21:45] API Warning: emoji 🫕 is not supported, word: fondue.
+[2021.06.08 17:21:45] API Warning: emoji 🪲 is not supported, word: beetle.
+[2021.06.08 17:21:45] API Warning: emoji 🇦🇨 is not supported, word: flag_ac.
+[2021.06.08 17:21:45] API Warning: emoji 🪦 is not supported, word: tombstone.
+[2021.06.08 17:21:45] API Warning: emoji 🧑‍🎄 is not supported, word: mx claus.
+[2021.06.08 17:21:45] API Warning: emoji 🫑 is not supported, word: vegetables.
+[2021.06.08 17:21:45] API Warning: emoji 🐈‍⬛ is not supported, word: black cat.
+[2021.06.08 17:21:45] API Warning: emoji 👰‍♀ is not supported, word: veil.
+[2021.06.08 17:21:45] API Warning: emoji 🫑 is not supported, word: bell pepper.
+[2021.06.08 17:21:45] API Warning: emoji 🦬 is not supported, word: bison.
+[2021.06.08 17:21:45] API Warning: emoji 🪧 is not supported, word: placard.
+[2021.06.08 17:21:45] API Warning: emoji 🥲 is not supported, word: happytear.
+[2021.06.08 17:21:45] API Warning: emoji 🇹🇦 is not supported, word: tristan da cunha.
+[2021.06.08 17:21:45] API Warning: emoji 🧋 is not supported, word: boba.
+[2021.06.08 17:21:45] API Warning: emoji 🪝 is not supported, word: hook.
+[2021.06.08 17:21:45] API Warning: emoji 🫓 is not supported, word: arepa.
+[2021.06.08 17:21:45] API Warning: emoji 🫁 is not supported, word: organ.
+[2021.06.08 17:21:45] API Warning: emoji 🪤 is not supported, word: mouse trap.
+[2021.06.08 17:21:45] API Warning: emoji 🪅 is not supported, word: pinata.
+[2021.06.08 17:21:45] API Warning: emoji 🪗 is not supported, word: accordion.
+[2021.06.08 17:21:45] API Warning: emoji 🩴 is not supported, word: thongs.
+[2021.06.08 17:21:45] API Warning: emoji 🤌 is not supported, word: pinched fingers.
+[2021.06.08 17:21:45] API Warning: emoji 🇩🇬 is not supported, word: british indian ocean territory.
+[2021.06.08 17:21:45] API Warning: emoji 🧑‍🍼 is not supported, word: person feeding baby.
+[2021.06.08 17:21:45] API Warning: emoji 🧋 is not supported, word: bubble tea.
+[2021.06.08 17:21:45] API Warning: emoji 🫁 is not supported, word: lung.
+[2021.06.08 17:21:45] API Warning: emoji 🇹🇦 is not supported, word: flag_ta.
+[2021.06.08 17:21:45] API Warning: emoji 🪞 is not supported, word: mirror.
+[2021.06.08 17:21:45] API Warning: emoji 🫒 is not supported, word: olive.
+[2021.06.08 17:21:45] API Warning: emoji 🧋 is not supported, word: boba tea.
+[2021.06.08 17:21:45] API Warning: emoji 🪵 is not supported, word: wood.
+[2021.06.08 17:21:45] API Warning: emoji 🪧 is not supported, word: sign.
+[2021.06.08 17:21:45] API Warning: emoji 🇲🇫 is not supported, word: st. martin.
+[2021.06.08 17:21:45] API Warning: emoji 🐻‍❄ is not supported, word: polar bear.
+[2021.06.08 17:21:45] API Warning: emoji 🪡 is not supported, word: sewing needle.
+[2021.06.08 17:21:45] API Warning: emoji 🥸 is not supported, word: incognito.
+[2021.06.08 17:21:45] API Warning: emoji 🥲 is not supported, word: tear.
+[2021.06.08 17:21:45] API Warning: emoji 🇪🇦 is not supported, word: ceuta & melilla.
+[2021.06.08 17:21:45] API Warning: emoji 🪧 is not supported, word: lawn sign.
+[2021.06.08 17:21:45] API Warning: emoji 🪛 is not supported, word: screwdriver.
+[2021.06.08 17:21:45] API Warning: emoji ⚧ is not supported, word: transgender sign.
+[2021.06.08 17:21:45] API Warning: emoji 👩‍🍼 is not supported, word: woman feeding baby.
+[2021.06.08 17:21:45] API Warning: emoji 🥸 is not supported, word: glasses.
+[2021.06.08 17:21:45] API Warning: emoji 🪘 is not supported, word: long drum.
+[2021.06.08 17:21:45] API Warning: emoji 🪃 is not supported, word: boomerang.
+[2021.06.08 17:21:45] API Warning: emoji 🥸 is not supported, word: disguised face.
+[2021.06.08 17:21:45] API Warning: emoji ⚧ is not supported, word: transgender symbol.
+[2021.06.08 17:21:45] API Warning: emoji 🤌 is not supported, word: finger purse.
+[2021.06.08 17:21:45] API Warning: emoji 🫁 is not supported, word: breathing.
+[2021.06.08 17:21:45] API Warning: emoji 🦣 is not supported, word: mammoth.
+[2021.06.08 17:21:45] API Warning: emoji 🫂 is not supported, word: hug gesture.
+[2021.06.08 17:21:45] API Warning: emoji 🩴 is not supported, word: thong sandal.
+[2021.06.08 17:21:45] API Warning: emoji 🫁 is not supported, word: lungs.
+[2021.06.08 17:21:50] App Error: Can't read history till unknown local message.
+[2021.06.08 17:21:50] App Error: Can't read history till unknown local message.
+[2021.06.08 17:21:50] App Error: Can't read history till unknown local message.
+[2021.06.08 17:21:50] App Error: Can't read history till unknown local message.
+[2021.06.08 17:21:50] App Error: Can't read history till unknown local message.
+[2021.06.08 17:21:50] App Error: Can't read history till unknown local message.
+[2021.06.08 17:21:51] Skipping message, because it is already in blocks!
+[2021.06.08 17:22:03] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:03] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:03] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:03] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:03] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:04] Skipping message, because it is already in blocks!
+[2021.06.08 17:22:13] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:13] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:13] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:13] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:13] App Error: Can't read history till unknown local message.
+[2021.06.08 17:22:14] Skipping message, because it is already in blocks!
+[2021.06.08 17:22:51] Skipping message, because it is already in blocks!
+[2021.06.08 17:23:07] Message Info: bad message notification received (error_code 33) for msg_id = 6971351213526270704, seq_no = 406
+[2021.06.08 17:23:07] Message Info: bad message notification received, msgId 6971351213526270704, error_code 33
+[2021.06.08 17:23:08] Message Info: bad message notification received (error_code 33) for msg_id = 6971351219159633804, seq_no = 10
+[2021.06.08 17:23:08] Message Info: bad message notification received, msgId 6971351219159633804, error_code 33
+[2021.06.08 17:23:09] API Error: Got self banned participant.
+[2021.06.08 17:23:38] RPC Error: request 368 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2021.06.08 17:23:58] API Warning: not loaded minimal channel applied.
+[2021.06.08 17:24:37] Message Info: bad message notification received (error_code 33) for msg_id = 6971351600099877000, seq_no = 22
+[2021.06.08 17:24:37] Message Info: bad message notification received, msgId 6971351600099877000, error_code 33
+[2021.06.08 17:24:37] Message Info: bad message notification received (error_code 33) for msg_id = 6971351600797163788, seq_no = 18
+[2021.06.08 17:24:37] Message Info: bad message notification received, msgId 6971351600797163788, error_code 33
+[2021.06.08 17:24:37] Message Info: bad message notification received (error_code 33) for msg_id = 6971351600380177764, seq_no = 82
+[2021.06.08 17:24:37] Message Info: bad message notification received, msgId 6971351600380177764, error_code 33
+[2021.06.08 17:24:37] Message Info: bad message notification received (error_code 33) for msg_id = 6971351601267994152, seq_no = 102
+[2021.06.08 17:24:37] Message Info: bad message notification received, msgId 6971351601267994152, error_code 33
+[2021.06.08 17:24:37] Message Info: bad message notification received (error_code 33) for msg_id = 6971351601350406912, seq_no = 118
+[2021.06.08 17:24:37] Message Info: bad message notification received, msgId 6971351601350406912, error_code 33
+[2021.06.08 17:24:37] Message Info: bad message notification received (error_code 33) for msg_id = 6971351601340182444, seq_no = 62
+[2021.06.08 17:24:37] Message Info: bad message notification received, msgId 6971351601340182444, error_code 33
+[2021.06.08 17:24:37] Message Info: bad message notification received (error_code 33) for msg_id = 6971351601354939768, seq_no = 110
+[2021.06.08 17:24:37] Message Info: bad message notification received, msgId 6971351601354939768, error_code 33
+[2021.06.08 17:32:57] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 17:32:59] Audio Info: Closing audio playback device.
+[2021.06.08 17:33:17] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 17:33:20] Audio Info: Closing audio playback device.
+[2021.06.08 17:34:23] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 17:34:25] Audio Info: Closing audio playback device.
+[2021.06.08 17:39:10] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 17:39:12] Audio Info: Closing audio playback device.
+[2021.06.08 17:41:06] API Warning: not loaded minimal channel applied.
+[2021.06.08 17:43:21] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 17:43:23] Audio Info: Closing audio playback device.
+[2021.06.08 17:51:30] Message Info: bad message notification received (error_code 33) for msg_id = 6971358528158666272, seq_no = 590
+[2021.06.08 17:51:30] Message Info: bad message notification received, msgId 6971358528158666272, error_code 33
+[2021.06.08 17:52:16] API Warning: not loaded minimal channel applied.
+[2021.06.08 17:56:33] API Warning: not loaded minimal channel applied.
+[2021.06.08 17:58:03] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 17:58:05] Audio Info: Closing audio playback device.
+[2021.06.08 17:58:37] API Warning: not loaded minimal channel applied.
+[2021.06.08 18:05:44] API Warning: not loaded minimal channel applied.
+[2021.06.08 18:07:39] API Warning: not loaded minimal channel applied.
+[2021.06.08 18:08:25] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 18:08:27] Audio Info: Closing audio playback device.
+[2021.06.08 18:09:02] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 18:09:04] Audio Info: Closing audio playback device.
+[2021.06.08 18:09:46] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 18:09:48] Audio Info: Closing audio playback device.
+[2021.06.08 18:10:36] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 18:10:38] Audio Info: Closing audio playback device.
+[2021.06.08 18:10:41] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 18:10:43] Audio Info: Closing audio playback device.
+[2021.06.08 18:15:30] Skipping message, because it is already in blocks!
+[2021.06.08 18:24:27] Message Info: bad message notification received (error_code 33) for msg_id = 6971367019496063936, seq_no = 512
+[2021.06.08 18:24:27] Message Info: bad message notification received, msgId 6971367019496063936, error_code 33
+[2021.06.08 18:32:17] API Warning: not loaded minimal channel applied.
+[2021.06.08 18:32:17] API Warning: not loaded minimal channel applied.
+[2021.06.08 18:36:22] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 18:36:24] Audio Info: Closing audio playback device.
+[2021.06.08 18:47:27] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 18:47:29] Audio Info: Closing audio playback device.
+[2021.06.08 18:52:10] Audio Info: recreating audio device and reattaching the tracks
+[2021.06.08 18:52:12] Audio Info: Closing audio playback device.
